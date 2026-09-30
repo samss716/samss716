@@ -1,10 +1,11 @@
 - 👋 Hi, I’m @samss716
-- 👀 I’m interested in UI/UX design! I am passionate about merging coding and design to create seamless user experiences. With hospitality experience and a focus on the travel industry, I aim to design intuitive, interactive platforms that enhance global exploration and user interaction.
-- 🌱 I’m currently learning Responsive Web Design and AWS.
-- 💞️ I’m looking to collaborate on Web Development and New Media pieces.
-- 📫 How to reach me : samanthasanchez887@gmail.com 
+- 🎨 I’m a creative tech artist interested in 3D/VFX, Technical Art, Simulation, and UI/UX design. I enjoy combining code and visual design to build interactive experiences and creative tools.
+- 🌱 I’m currently learning fluid simulation, procedural animation, and technical art workflows, while continuing to explore web development and AWS.
+- 💻 My interests include Houdini, Blender, Maya, Javascript, React, shaders, WebGL, procedural systems, and interactive media.
+- 💞️ I’m looking to collaborate on Web Development, 3D/VFX, and New Media projects.
+- 📫 Reach me at: samanthasanchez887@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I studied art history abroad in France!
+- ⚡ Fun fact: I studied Art History abroad in France!
 
 <!---
 samss716/samss716 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
